@@ -1,13 +1,13 @@
 ---
 layout: page
 title: submenus
-nav: true
-nav_order: 7
-dropdown: true
-children:
-    - title: publications
-      permalink: /publications/
+nav: false
+nav_order: 6
+dropdown: false
+children: 
+    - title: RCSL
+      permalink: /research/rcsl
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: research
+      permalink: /research/
 ---
