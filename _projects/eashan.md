@@ -2,7 +2,7 @@
 layout: page
 title: Eashan
 description: PhD Candidate
-img: assets/img/Portrait_placeholder.png
+img: assets/img/eashan.png
 importance: 3
 category: Research Team
 ---
