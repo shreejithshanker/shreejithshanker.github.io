@@ -2,7 +2,7 @@
 layout: page
 title: Dr. Hareesh V
 description: Post-doc Fellow
-img: assets/img/Portrait_placeholder.png
+img: assets/img/Portrait_Placeholder.png
 #redirect: https://unsplash.com
 importance: 1
 category: Research Team
