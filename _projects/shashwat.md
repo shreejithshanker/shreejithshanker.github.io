@@ -2,7 +2,7 @@
 layout: page
 title: Shashwat
 description: PhD Candidate
-img: assets/img/Portrait_placeholder.png
+img: assets/img/shashwat.png
 importance: 2
 category: Research Team
 ---
