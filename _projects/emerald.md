@@ -2,7 +2,7 @@
 layout: page
 title: EMERALD
 description: AI and Process Automation for Sustainable Entertainment and Media
-img: assets/img/3.jpg
+img: assets/img/emerald.png
 importance: 1
 category: Projects
 ---
