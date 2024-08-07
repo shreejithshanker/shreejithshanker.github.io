@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Below you will find a list of my publications and links to download them. Note that they are provided here to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders.
-years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
+years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
 nav: true
 nav_order: 1
 ---
