@@ -21,8 +21,8 @@ profiles:
     content: eashan.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 Third Year PhD (part-time)</p>
-      <p>123 RCSL, TCD</p>
+      <p>Third Year PhD (part-time)</p>
+      <p>RCSL, TCD</p>
   - align: right
     image: Portrait_Placeholder.png
     content: anneliese.md
