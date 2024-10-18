@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - shreejithshanker
+  - RCSL-TCD
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - shreejithshanker/ZyEthCAP
+  - RCSL-TCD/ITU-RadioML
+  - RCSL-TCD/QDCNN-EEG-SubjectSpecific

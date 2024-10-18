@@ -1,0 +1,1 @@
+[Shashwat Khandelwal](https://www.linkedin.com/in/shashwat-khandelwal-835770168/) is a final year PhD candidate at RCSL, TCD. His project explores distrubuted intrusion detection schemes for Automotive Networks leveraging deep neural networks as the detection engines.

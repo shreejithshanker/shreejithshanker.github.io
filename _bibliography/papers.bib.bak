@@ -1,0 +1,489 @@
+---
+---
+
+
+@inproceedings{shreejith2013approach,
+  title={An approach for redundancy in FlexRay networks using FPGA partial reconfiguration},
+  author={Shreejith, Shanker and Vipin, Kizhepatt and Fahmy, Suhaib A and Lukasiewycz, Martin},
+  booktitle={2013 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={721--724},
+  year={2013},
+  organization={IEEE},
+  pdf={shreejith2013approach.pdf},
+  selected={false}
+}
+
+@article{shreejith2013reconfigurable,
+  title={Reconfigurable Computing in Next Generation Automotive Networks},
+  author={Shreejith, Shanker and Fahmy, Suhaib A and Lukasiewycz, Martin},
+  journal={Embedded Systems Letters},
+  volume={5},
+  number={1},
+  pages={12--15},
+  year={2013},
+  publisher={IEEE},
+  pdf={shreejith2013reconfigurable.pdf},
+    selected={true}
+}
+
+@inproceedings{lukasiewycz2013system,
+  title={System architecture and software design for electric vehicles},
+  author={Lukasiewycz, Martin and Steinhorst, Sebastian and Andalam, Sidharta and Sagstetter, Florian and Waszecki, Peter and Chang, Wanli and Kauer, Matthias and Mundhenk, Philipp and Shanker, Shreejith and Fahmy, Suhaib A and others},
+  booktitle={Proceedings of the 50th Annual Design Automation Conference},
+  pages={1--6},
+  year={2013},
+  pdf={lukasiewycz2013system.pdf},
+    selected={false}
+}
+
+@inproceedings{shreejith2013accelerating,
+  title={Accelerating Validation of Time-Triggered Automotive Systems on FPGAs},
+  author={Shreejith, Shanker and Fahmy, Suhaib A and Lukasiewycz, Martin},
+  booktitle={International Conference on Field Programmable Technology (ICFPT)},
+  year={2013},
+  pdf={shreejith2013accelerating.pdf},
+  selected={false},
+    selected={false}
+}
+
+@inproceedings{vipin2013system,
+  title={System-Level FPGA Device Driver with High-Level Synthesis Support},
+  author={Vipin, Kizheppatt and Shreejith, Shanker and Gunasekera, Dulitha and Fahmy, Suhaib A and Kapre, Nachiket},
+  booktitle={International Conference on Field Programmable Technology (ICFPT)},
+  year={2013},
+  pdf={vipin2013system.pdf},
+    selected={false}
+}
+
+@inproceedings{shreejith2013enhancing,
+  title={Enhancing Communication On Automotive Networks Using Data Layer Extensions},
+  author={Shreejith, Shanker and Fahmy, Suhaib A},
+  booktitle={International Conference on Field Programmable Technology (ICFPT)},
+  year={2013},
+  organization={IEEE},
+  pdf={shreejith2013enhancing.pdf},
+    selected={false}
+}
+
+@article{shreejith2015extensible,
+  title={Extensible FlexRay Communication Controller for FPGA-Based Automotive Systems},
+  author={Shreejith, S and Fahmy, S. A},
+  journal={Transactions on Vehicular Technology},
+  volume={64},
+  number={2},
+  pages={453--465},
+  year={2015},
+  publisher={IEEE},
+  pdf={shreejith2015extensible.pdf},
+  selected={true}
+}
+
+@inproceedings{vipin2014mapping,
+  title={Mapping time-critical safety-critical cyber physical systems to hybrid FPGAs},
+  author={Vipin, Kizheppatt and Shreejith, Shanker and Fahmy, Suhaib A and Easwaran, Arvind},
+  booktitle={2014 IEEE International Conference on Cyber-Physical Systems, Networks, and Applications},
+  pages={31--36},
+  year={2014},
+  organization={IEEE},
+  pdf={vipin2014mapping.pdf},
+    selected={false}
+}
+
+@inproceedings{lukasiewycz2014system,
+  title={System simulation and optimization using reconfigurable hardware},
+  author={Lukasiewycz, Martin and Shreejith, Shanker and Fahmy, Suhaib A},
+  booktitle={2014 International Symposium on Integrated Circuits (ISIC)},
+  pages={468--471},
+  year={2014},
+  organization={IEEE},
+  pdf={lukasiewycz2014system.pdf},
+    selected={false}
+}
+
+@inproceedings{shreejith2014zero,
+  title={Zero latency encryption with FPGAs for secure time-triggered automotive networks},
+  author={Shreejith, Shanker and Fahmy, Suhaib A},
+  booktitle={2014 International Conference on Field-Programmable Technology (FPT)},
+  pages={256--259},
+  year={2014},
+  organization={IEEE},
+  pdf={shreejith2014zero.pdf},
+  selected={false}
+}
+
+@inproceedings{shreejith2015dynamic,
+  title={Dynamic Cognitive Radios on the Xilinx Zynq Hybrid FPGA},
+  author={Shreejith, Shanker and Banarjee, Bhaskar and Vipin, Kizheppatt and Fahmy, Suhaib A},
+  booktitle={International Conference on Cognitive Radio Oriented Wireless Networks (CROWNCOM), Doha, Qatar},
+  year={2015},
+  pdf={shreejith2015dynamic.pdf},
+  selected={false}
+}
+
+@inproceedings{shreejith2015security,
+  title={Security Aware Network Controllers for Next Generation Automotive Embedded Systems},
+  author={Shreejith, Shanker and Fahmy, Suhaib A.},
+  booktitle={Proceedings of the 52nd Design Automation Conference (DAC)},
+  year={2015},
+  pdf={shreejith2015security.pdf},
+  selected={false}
+}
+
+@article{ambede2015design,
+  title={Design and Realization of Variable Digital Filters for Software Defined Radio Channelizers using Improved Coefficient Decimation Method},
+  author={Ambede, A. and Shreejith, S. and Vinod, A.P. and Fahmy, S.A.},
+  journal={IEEE Transactions on Circuits and Systems II:},
+  year={2015},
+  pdf={ambede2015design.pdf},
+    selected={false}
+}
+
+@inproceedings{fahmy2015virtualized,
+  title={Virtualized FPGA accelerators for efficient cloud computing},
+  author={Fahmy, Suhaib A and Vipin, Kizheppatt and Shreejith, Shanker},
+  booktitle={2015 IEEE 7th International Conference on Cloud Computing Technology and Science (CloudCom)},
+  pages={430--435},
+  year={2015},
+  organization={IEEE},
+  pdf={fahmy2015virtualized.pdf},
+  selected={true}
+}
+
+@inproceedings{shreejith2016accelerated,
+  title={Accelerated artificial neural networks on FPGA for fault detection in automotive systems},
+  author={Shreejith, Shanker and Anshuman, Bezborah and Fahmy, Suhaib A},
+  booktitle={2016 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={37--42},
+  year={2016},
+  organization={IEEE},
+  pdf={shreejith2016accelerated.pdf},
+  selected={false}
+}
+
+@phdthesis{shanker2016enhancing,
+  title={Enhancing Automotive Embedded Systems with FPGAs},
+  author={Shanker, Shreejith},
+  year={2016},
+  school={Nanyang Technological University, Singapore.},
+  %pdf={shanker2016enhancing.pdf},
+    selected={false}
+}
+
+@article{warrier2017fracturable,
+  title={Fracturable DSP block for multi-context reconfigurable architectures},
+  author={Warrier, Rakesh and Shreejith, Shanker and Zhang, Wei and Vun, Chan Hua and Fahmy, Suhaib A},
+  journal={Circuits, Systems, and Signal Processing},
+  volume={36},
+  pages={3020--3033},
+  year={2017},
+  publisher={Springer US},
+  pdf={warrier2017fracturable.pdf},
+  selected={false}
+}
+
+@article{shreejith2017vega,
+  title={VEGa: A high performance vehicular Ethernet gateway on hybrid FPGA},
+  author={Shreejith, Shanker and Mundhenk, Philipp and Ettner, Andreas and Fahmy, Suhaib A and Steinhorst, Sebastian and Lukasiewycz, Martin and Chakraborty, Samarjit},
+  journal={IEEE Transactions on Computers},
+  volume={66},
+  number={10},
+  pages={1790--1803},
+  year={2017},
+  publisher={IEEE},
+  pdf={shreejith2017vega.pdf},
+  selected={true}
+}
+
+@inproceedings{ambede2017efficient,
+  title={Efficient FPGA Implementation of a Variable Digital Filter based Spectrum Sensing Scheme for Cognitive IoT Systems},
+  author={Ambede, A. and Shreejith, S. and Vinod, A.P},
+  booktitle={Global IoT Summit},
+  year={2017},
+  organization={IEEE ComSoc},
+  pdf={ambede2017efficient.pdf},
+    selected={false}
+}
+
+@article{shreejith2018efficient,
+  title={Efficient spectrum sensing for aeronautical LDACS using low-power correlators},
+  author={Shreejith, Shanker and Mathew, Libin K and Prasad, Vinod A and Fahmy, Suhaib A},
+  journal={IEEE Transactions on Very Large Scale Integration (VLSI) Systems},
+  volume={26},
+  number={6},
+  pages={1183--1191},
+  year={2018},
+  publisher={IEEE},
+  pdf={shreejith2018efficient.pdf},
+  selected={true}
+}
+
+@inproceedings{shreejith2018smart,
+  title={A smart network interface approach for distributed applications on Xilinx Zynq SoCs},
+  author={Shreejith, Shanker and Cooke, Ryan A and Fahmy, Suhaib A},
+  booktitle={2018 28th International Conference on Field Programmable Logic and Applications (FPL)},
+  pages={186--1864},
+  year={2018},
+  organization={IEEE},
+  pdf={shreejith2018smart.pdf},
+  selected={false}
+}
+
+@inproceedings{bucknall2019network,
+  title={Network Enabled Partial Reconfiguration for Distributed FPGA Edge Acceleration},
+  author={Bucknall, Alex R and Shreejith, Shanker and Fahmy, Suhaib A},
+  booktitle={2019 International Conference on Field-Programmable Technology (ICFPT)},
+  year={2019},
+  pdf={bucknall2019network.pdf},
+    selected={false}
+}
+
+@article{mathew2020adaptive,
+  title={An adaptive energy detection scheme with real-time noise variance estimation},
+  author={Mathew, Libin K and Shanker, Shreejith and Vinod, A Prasad and Madhukumar, AS},
+  journal={Circuits, Systems, and Signal Processing},
+  volume={39},
+  number={5},
+  pages={2623--2647},
+  year={2020},
+  publisher={Springer US},
+  %pdf={shreejith2013reconfigurable.pdf},
+    selected={false}
+}
+
+@inproceedings{shivaraman2020decoric,
+  title={Decoric: Decentralized connected resilient iot clustering},
+  author={Shivaraman, Nitin and Ramanathan, Saravanan and Shanker, Shreejith and Easwaran, Arvind and Steinhorst, Sebastian},
+  booktitle={2020 29th International Conference on Computer Communications and Networks (ICCCN)},
+  pages={1--10},
+  year={2020},
+  organization={IEEE},
+  pdf={shivaraman2020decoric.pdf},
+    selected={false}
+}
+
+@article{mathew2020power,
+  title={A power-efficient spectrum-sensing scheme using 1-Bit quantizer and modified filter banks},
+  author={Mathew, Libin K and Shanker, Shreejith and Vinod, A Prasad and Madhukumar, AS},
+  journal={IEEE Transactions on Very Large Scale Integration (VLSI) Systems},
+  volume={28},
+  number={9},
+  pages={2074--2078},
+  year={2020},
+  publisher={IEEE},
+  %pdf={shreejith2013reconfigurable.pdf},
+    selected={false}
+}
+
+@inproceedings{regnath2020blockchain,
+  title={Blockchain, what time is it? Trustless Datetime Synchronization for IoT},
+  author={Regnath, Emanuel and Shivaraman, Nitin and Shreejith, Shanker and Easwaran, Arvind and Steinhorst, Sebastian},
+  booktitle={International Conference on Omni-layer Intelligent Systems (COINS)},
+  pages={1--6},
+  year={2020},
+  organization={IEEE},
+  pdf={regnath2020blockchain.pdf},
+    selected={false}
+}
+
+@inproceedings{bucknall2020build,
+  title={Build automation and runtime abstraction for partial reconfiguration on Xilinx Zynq Ultrascale+},
+  author={Bucknall, Alex R and Shreejith, Shanker and Fahmy, Suhaib A},
+  booktitle={2020 International Conference on Field-Programmable Technology (ICFPT)},
+  pages={215--220},
+  year={2020},
+  organization={IEEE},
+  pdf={bucknall2020build.pdf},
+    selected={true}
+}
+
+@inproceedings{pham2021heterogeneous,
+  title={Heterogeneous communication virtualization for distributed embedded applications},
+  author={Pham, Thinh H and Shreejith, Shanker and Steinhorst, Sebastian and Fahmy, Suhaib A and Chakraborty, Samarjit},
+  booktitle={2021 24th Euromicro Conference on Digital System Design (DSD)},
+  pages={251--258},
+  year={2021},
+  organization={IEEE},
+  pdf={pham2021heterogeneous.pdf},
+    selected={false}
+}
+
+@inproceedings{khandelwal2022deep,
+  title={Deep Learning-based Embedded Intrusion Detection System for Automotive CAN},
+  author={Khandelwal, Shashwat and Wadhwa, Eashan and Shreejith, Shanker},
+  booktitle={IEEE International Conference on Application-specific Systems, Architectures and Processors},
+  year={2022},
+  pdf={khandelwal2022deep.pdf},
+    selected={false}
+}
+
+@inproceedings{wadhwa2022imec,
+  title={IMEC: A Memory-Efficient Convolution Algorithm For Quantised Neural Network Accelerators},
+  author={Wadhwa, Eashan and Khandelwal, Shashwat and Shreejith, Shanker},
+  booktitle={IEEE International Conference on Application-specific Systems, Architectures and Processors},
+  year={2022},
+  pdf={wadhwa2022imec.pdf},
+  selected={false}
+}
+
+@inproceedings{khandelwal2022lightweight,
+  title={A Lightweight Multi-Attack CAN Intrusion Detection System on Hybrid FPGAs},
+  author={Khandelwal, Shashwat and Shreejith, Shanker},
+  booktitle={International Conference on Field Programmable Logic and Applications (FPL)},
+  year={2022},
+  pdf={khandelwal2022lightweight.pdf},
+    selected={false}
+}
+
+@inproceedings{flood2022fpga,
+  title={FPGA-based Deep-Learning Accelerators for Energy Efficient Motor Imagery EEG classification},
+  author={Flood, Daniel and Robinson, Neethu and Shreejith, Shanker},
+  booktitle={International Conference on Omni-Layer Intelligent Systems (COINS)},
+  year={2022},
+  pdf={flood2022fpga.pdf},
+    selected={false}
+}
+
+@inproceedings{khandelwal2022Alightweight,
+  title={A Lightweight FPGA-based IDS-ECU Architecture for Automotive CAN},
+  author={Khandelwal, Shashwat and Shreejith, Shanker},
+  booktitle={2022 International Conference on Field-Programmable Technology (ICFPT)},
+  pages={1--9},
+  year={2022},
+  organization={IEEE},
+  pdf={khandelwal2022Alightweight.pdf},
+  selected={false}
+}
+
+@inproceedings{khandelwal2023quantised,
+  title={Quantised Neural Network Accelerators for Low-Power IDS in Automotive Networks},
+  author={Khandelwal, Shashwat and Walsh, Anneliese and Shreejith, Shanker},
+  booktitle={Design, Automation \& Test in Europe Conference},
+  year={2023},
+  %pdf={khandelwal2023quantised.pdf},
+  selected={false}
+}
+
+@inproceedings{khandelwal2023real,
+  title={Real-time zero-day Intrusion Detection System for Automotive Controller Area Network on FPGAs},
+  author={Khandelwal, Shashwat and Shreejith, Shanker},
+  booktitle={34th IEEE International Conference on Application-specific Systems, Architectures and Processors},
+  year={2023},
+  pdf={khandelwal2023real.pdf},
+  selected={true}
+}
+
+@inproceedings{khandelwal2023exploring,
+  title={Exploring Highly Quantised Neural Networks for Intrusion Detection in Automotive CAN},
+  author={Khandelwal, Shashwat and Shreejith, Shanker},
+  booktitle={33rd International Conference on Field-Programmable Logic and Applications},
+  year={2023},
+  pdf={khandelwal2023exploring.pdf},
+  selected={true}
+}
+
+@article{shreejith2018smartNI,
+  title={Smart network interfaces for advanced automotive applications},
+  author={Shreejith, Shanker and Fahmy, Suhaib A},
+  journal={IEEE Micro},
+  volume={38},
+  number={2},
+  pages={72--80},
+  year={2018},
+  pdf={shreejith2018smartNI.pdf},
+    selected={true}
+}
+
+@inproceedings{shreejith2016power,
+  title={A power and time efficient radio architecture for LDACS1 air-to-ground communication},
+  author={Shreejith, Shanker and Ambede, Abhishek and Vinod, AP and Fahmy, Suhaib A},
+  booktitle={IEEE/ AIAA Digital Avionics Systems Conference (DASC)},
+  pages={1--6},
+  year={2016},
+  pdf={shreejith2016power.pdf},
+    selected={false}
+}
+
+@inproceedings{boyle2023case,
+author = {Jason Boyle and Shreejith Shanker},
+title = {{A case for FPGA-based accelerators for energy-efficient motion picture video processing}},
+volume = {12674},
+booktitle = {Applications of Digital Image Processing XLVI},
+editor = {Andrew G. Tescher and Touradj Ebrahimi},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {1267404},
+keywords = {Field-programmable gate arrays, Energy-efficient processing, Hardware accelerators, High-performance computing, Motion pictures, Video Processing},
+year = {2023},
+doi = {10.1117/12.2677501},
+URL = {https://doi.org/10.1117/12.2677501},
+  pdf={boyle2023case.pdf},
+  selected={true},
+  html = {https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12674/1267404/A-case-for-FPGA-based-accelerators-for-energy-efficient-motion/10.1117/12.2677501.full?SSO=1}
+}
+
+@inproceedings{murphy2023custom,
+  title={Custom precision accelerators for energy-efficient image-to-image transformations in motion picture workflows},
+  author={Murphy, Emmet and Khandelwal, Shashwat and Shreejith, Shanker},
+  booktitle={Applications of Digital Image Processing XLV},
+  year={2023},
+  pdf={murphy2023custom.pdf},
+  selected={false},
+  html = {https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12674/126740R/Custom-precision-accelerators-for-energy-efficient-image-to-image-transformations/10.1117/12.2677688.short}
+}
+
+@inproceedings{gupta2023exploring,
+  title={{Exploring Lightweight Federated Learning for Distributed Load Forecasting}},
+  author={Duttagupta, Abhishek and Zhao, Jin and Shreejith, Shanker},
+  booktitle={IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids },
+  year={2023},
+  pdf={gupta2023exploring.pdf},
+  selected={false},
+  video = {https://www.youtube.com/embed/B6IFo5cdIcc?si=8Qir_ZyqAOoyy5gm}
+}
+
+@inproceedings{kumar2024implementation,
+author = {Kumar M, Ajay and Kumar, Vineet and John, Deepu and Shanker, Shreejith},
+title = {Implementation and analysis of custom instructions on RISC-V for Edge-AI applications},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3665283.3665342},
+doi = {10.1145/3665283.3665342},
+booktitle = {Proceedings of the 14th International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies},
+pages = {126–129},
+numpages = {4},
+keywords = {Accelerators, Deep Neural Networks, Edge-AI, Memory, RISC-V},
+location = {Porto, Portugal},
+series = {HEART '24},
+pdf={kumar2024implementation.pdf}
+}
+
+@inproceedings{castelino2024HSI,
+  title={{An Energy-Efficient Artefact Detection Accelerator on FPGAs for Hyper-Spectral Satellite Imagery}},
+  author={Castelino, Cornell and Khandelwal, Shashwat and Shreejith, Shanker and Bogaraju, Sharatchandra Varma},
+  booktitle={27th Euromicro Conference on Digital System Design (DSD)},
+  year={2024},
+  organization={IEEE},
+  pdf={castelino2024HSI.pdf},
+  selected={false}
+}
+
+@inproceedings{wadhwa2024simopt,
+  title={Simopt - Simulation pass for Speculative Optimisation of FPGA-CAD flow},
+  author={Wadhwa, Eashan and Shreejith, Shanker},
+  booktitle={International Conference on Omni-Layer Intelligent Systems (COINS)},
+  year={2024},
+  pdf={wadhwa2024simpot.pdf},
+    selected={false}
+}
+
+@article{
+title={ECG Biometric Authentication Using Self-Supervised Learning for IoT Edge Sensors},
+author = {Wang, Guoxin and Shanker, Shreejith and Nag Avishek and Lian, Yong and John, Deepu},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  volume={},
+  number={},
+  pages={},
+  year={2024},
+    selected={false}
+}

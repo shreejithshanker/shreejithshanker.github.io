@@ -1,200 +1,314 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shreejith Shanker",
+    "label": "Assistant Professor at Trinity College Dublin",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "shreejith.shanker@gmail.com",
+    "phone": "",
+    "url": "https://shreejithshanker.github.io",
+    "summary": "Extensive experience in research & development of custom computing systems based on FPGAs/microprocessors across the domains of networks, distributed embedded systems, signal processing, automotive and space systems. \n\nSpecialties: Field Programmable Gate Arrays, Distributed Embedded Systems, Communication Networks, Digital System Design, Adaptive Systems,  Automotive Systems, Computer Arithmetic,  Cognitive Radio, Security.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "countryCode": "IE",
+      "address": "Ireland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "shreejithshanker",
+        "url": "https://www.linkedin.com/in/shreejithshanker/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Trinity College Dublin",
+      "position": "Assistant Professor",
+      "startDate": "2019-04-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Assistant Professor in Reconfigurable Computing at the School of Electronic and Electrical Engineering, Trinity College Dublin.",
+      "url": "https://www.linkedin.com/school/trinity-college-dublin/",
+      "location": "County Dublin, Ireland"
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "TUMCREATE",
+      "position": "Research Fellow",
+      "startDate": "2018-08-31",
+      "endDate": "2019-03-31",
+      "highlights": [Research lead in decentralised IoT algorithms and systems architecture for smart grids],
+      "url": "https://www.linkedin.com/company/tum-create-limited/",
+      "location": "Singapore"
+    },
+    {
+      "name": "University of Warwick",
+      "position": "Teaching Fellow",
+      "startDate": "2017-01-31",
+      "endDate": "2018-07-31",
+      "highlights": [],
+      "summary": "Teaching Fellow at the School of Engineering, University of Warwick.",
+      "url": "https://www.linkedin.com/school/uniofwarwick/",
+      "location": "Coventry, United Kingdom"
+    },
+    {
+      "name": "Nanyang Technological University, Singapore",
+      "position": "Research Fellow",
+      "startDate": "2015-09-30",
+      "endDate": "2016-11-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/ntusg/",
+      "location": "Singapore"
+    },
+    {
+      "name": "Indian Space Research Organisation",
+      "position": "Scientist",
+      "startDate": "2008-09-30",
+      "endDate": "2011-07-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/indian-space-research-organisation/"
+    },
+    {
+      "name": "Processor Systems India Pvt Ltd",
+      "position": "Design Engineer",
+      "startDate": "2006-07-31",
+      "endDate": "2008-09-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/procsys/",
+      "location": "Bangalore, India"
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Nanyang Technological University",
+      "area": "Computer Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2011-08-15",
+      "endDate": "2015-08-15",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Sree Chitra Thirunal College of Engineering",
+      "area": "Electronics & Communication",
+      "studyType": "B. Tech",
+      "startDate": "2002-08-31",
+      "endDate": "2006-05-31",
+      "score": "Distinction in Electronics & Communication Engineering",
+      "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "awards": [],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Efficient Spectrum Sensing for Aeronautical LDACS Using Low-Power Correlators",
+      "publisher": "IEEE Transactions on VLSI Systems",
+      "releaseDate": "2018-06-30",
+      "summary": "",
+      "url": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Smart Network Interfaces for Advanced Automotive Applications",
+      "publisher": "IEEE Micro",
+      "releaseDate": "2018-03-31",
+      "summary": "",
+      "url": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "VEGa: A high performance vehicular Ethernet gateway on hybrid FPGA",
+      "publisher": "IEEE Transactions on Computers",
+      "releaseDate": "2017-10-31",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "name": "Efficient FPGA Implementation of a Variable Digital Filter based Spectrum Sensing Scheme for Cognitive IoT Systems",
+      "publisher": "IEEE ComSoC -- Proceedings on Global IoT Summit",
+      "releaseDate": "2017-06-30",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "name": "Fracturable DSP Block for Multi-context Reconfigurable Architectures",
+      "publisher": "Circuits Systems and Signal Processing Journal (CSSP), Springer",
+      "releaseDate": "2016-11-04",
+      "summary": "",
+      "url": "http://link.springer.com/article/10.1007/s00034-016-0445-x"
+    },
+    {
+      "name": "A power and time efficient radio architecture for LDACS1 air-to-ground communication",
+      "publisher": "Proceedings of the IEEE Digital Avionics Systems Conference (DASC) Conference",
+      "releaseDate": "2016-09-25",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "name": "Accelerated Artificial Neural Networks on FPGA for Fault Detection in Automotive Systems",
+      "publisher": "Design Automation and Test in Europe (DATE) Conference, 2016",
+      "releaseDate": "2016-03-15",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "name": "Design and Realization of Variable Digital Filters for Software Defined Radio Channelizers using Improved Coefficient Decimation Method",
+      "publisher": "IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)",
+      "releaseDate": "2015-08-31",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "name": "Security Aware Network Controllers for Next Generation Automotive Embedded Systems",
+      "publisher": "Design Automation Conference, San Francisco, USA.",
+      "releaseDate": "2015-06-30",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "name": "Dynamic Cognitive Radios on the Xilinx Zynq Hybrid FPGA",
+      "publisher": "International Conference on Cognitive Radio Oriented Wireless Networks (CROWNCOM), Doha, Qatar, April 2015.",
+      "releaseDate": "2015-04-30",
+      "summary": "",
+      "url": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+      "name": "VHDL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Field-Programmable Gate Arrays (FPGA)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Verilog",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Embedded System Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Automotive Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Automotive Electronics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Systems Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Debugging",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Signal Processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RTOS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TCL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hardware Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Algorithms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microcontrollers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Image Processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Partial Reconfiguration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Application Specific IC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Remote Sensing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Deep Learning",
+      "level": "",
+      "keywords": []
+    },
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Native Speaker",
+      "language": "Malayalam"
     }
+    {
+      "fluency": "Excellent",
+      "language": "English"
+    }
+
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
