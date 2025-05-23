@@ -1,0 +1,1 @@
+[Aravind Govindaraju](https://www.linkedin.com/in/aravind-govindaraju/) is an MSc Electronic and Information graduate from Trinity College Dublin and has recently joined our group to pursue a part-time PhD degree. He is in full-time employment with Synopsys Inc., Ireland, as a Sr. Engineer in Digital ASIC Design. 
