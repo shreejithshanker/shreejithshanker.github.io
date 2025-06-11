@@ -5,7 +5,7 @@ date: 2025-06-01 15:59:00-0400
 inline: false
 related_posts: false
 ---
-{% include figure.html path="assets/img/drkhandelwal.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/drkhandelwal.jpeg" class="img-fluid rounded z-depth-1" %}
 *** 
 
 Shashwat Khandelwal successfully defended his PhD thesis on May 27, 2025. His thesis explores deep-learning techniques and optimisations for effective intrusion detection strategies for in-vehicle networks.
