@@ -5,7 +5,7 @@ description: Dataflow deep learning accelerators at mixed (reduced) precision fo
 img: assets/img/QMLP.png
 importance: 1
 category: Funded
-related_publications: true
+related_publications: false
 ---
 
 The project explores the case for line rate intrusion detection using deep learning models for in-vehicle networks such as Controller Area Networks and Ethernet. The key contributions of this research are 
