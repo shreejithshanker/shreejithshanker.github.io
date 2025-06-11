@@ -14,7 +14,7 @@ profiles:
     content: shashwat.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Final Year PhD</p>
+      <p>Defended in May 2025</p>
       <p>RCSL, TCD</p>
   - align: left
     image: eashan.png
@@ -29,6 +29,20 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>First Year PhD (joint supervision)</p>
+      <p>RCSL, TCD</p>
+  - align: left
+    image: Portrait_Placeholder.png
+    content: changhong.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>First Year PhD</p>
+      <p>RCSL, TCD</p>
+  - align: right
+    image: Portrait_Placeholder.png
+    content: aravindg.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>First Year PhD (part-time)</p>
       <p>RCSL, TCD</p>
   - align: left
     image: hareesh.jpeg
