@@ -5,7 +5,7 @@ description: AI and Process Automation for Sustainable Entertainment and Media
 img: assets/img/emerald.png
 importance: 1
 category: Funded
-related_publications: true
+related_publications: false
 ---
 
 [EMERALD](https://www.upf.edu/web/emerald) is a Horizon EU project partners including the [British Broadcasting Corporation](https://bbc.co.uk), [Disguise Systems Limited](https://disguise.one) and others in the area of Cinema post production and content delivery. I am the Co-PI of Emerald and our group leads significant work packages in this project. Our key contribution will be to enable granular monitoring and profiling of post production workflows, with an aim to improve the utilisation of AI and automation tools through efficient integration and utilisation of software-hardware accelerators. 
