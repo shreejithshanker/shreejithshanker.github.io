@@ -5,7 +5,7 @@ date: 2025-06-01 15:59:00-0400
 inline: false
 related_posts: false
 ---
-{% include figure.html path="assets/img/drkhandelwal.jpeg" class="img-fluid rounded z-depth-1" %}
+
 *** 
 
 Shashwat Khandelwal successfully defended his PhD thesis on May 27, 2025. His thesis explores deep-learning techniques and optimisations for effective intrusion detection strategies for in-vehicle networks.
@@ -17,3 +17,4 @@ The examination committee consisted of Prof. Diana Goehringer, Chair of Adaptive
 I want to thank the collaborators at AMD research labs, Dr. Micheala Blott, Jakoba Petri-König, Thomas Preußer and others for the fruitful partnership, and to AMD's University Program team (Cathal McCabe, Mario Ruiz and others) for supporting our research. Thanks also to Nvidia for supporting our research through the GPU grant. 
 
 Congratulations, Dr. Khandelwal, and best wishes for your success in your new role at ARM.
+![]({{ "/assets/img/drkhandelwal.jpeg" | relative_url }}){:style="margin:auto; display:block;"}
